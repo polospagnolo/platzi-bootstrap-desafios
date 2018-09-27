@@ -1,4 +1,4 @@
-#Desafios del curso de Platzi de Bootstrap
+# Desafios del curso de Platzi de Bootstrap
 
 - Desafio 1
 - Desafio 2
